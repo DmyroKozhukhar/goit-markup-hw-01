@@ -1,12 +1,9 @@
 {
   "folders": [
-    {
-      "path": "../Test"
-    },
-    {
-      "path": "."
-    }
-  ],
+	{
+		"path": ".."
+	}
+],
   "settings": {
     "liveServer.settings.multiRootWorkspaceName": "homework_html_css"
   }
